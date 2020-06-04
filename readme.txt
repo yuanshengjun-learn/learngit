@@ -26,4 +26,6 @@ $ git add file2.txt file3.txt
 $ git commit -m "add 3 files."
 
 
-//修改文件后可以通过git status命令查看结果
+//修改文件后可以通过git status命令查看结果，git status命令可以让我们时刻掌握仓库当前的状态
+//git diff命令查看具体修改
+//然后再重新添加重新提交
